@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Function to calculate the factorial of a number
+//Function to calculate the factorial of a number
 
 int factorial(int n) {
   
