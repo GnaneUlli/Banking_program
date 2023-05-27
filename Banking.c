@@ -6,7 +6,9 @@ void showMenu();
 void createAccount();
 
 void depositFunds();
+
 void withdrawFunds();
+
 void checkBalance();
 
 // Global variables
