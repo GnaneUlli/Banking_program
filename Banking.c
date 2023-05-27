@@ -2,7 +2,9 @@
 
 // Function prototypes
 void showMenu();
+
 void createAccount();
+
 void depositFunds();
 void withdrawFunds();
 void checkBalance();
