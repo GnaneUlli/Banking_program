@@ -18,8 +18,10 @@ double accounts[10] = {0};
 int main() {
     int choice;
     do {
-        showMenu();
-        printf("Enter your choice: ");
+        showMenu(); 
+        
+        printf("Enter your choice: "); 
+        
         scanf("%d", &choice);
 
         switch (choice) {
