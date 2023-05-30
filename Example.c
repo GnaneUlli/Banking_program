@@ -68,7 +68,7 @@ int main() {
         
         default:
         
-            printf("Invalid choice.\n");
+            printf("Invalid choice .\n");
         
             break;
         
