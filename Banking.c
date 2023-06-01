@@ -28,9 +28,11 @@ int main() {
         switch (choice) {
             case 1:
                 createAccount();
+                
                 break;
             case 2:
                 depositFunds();
+                
                 break;
             case 3:
                 withdrawFunds();
