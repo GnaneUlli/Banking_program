@@ -13,6 +13,7 @@ void checkBalance();
 
 // Global variables
 int accountCount = 0;
+
 double accounts[10] = {0};
 
 int main() {
